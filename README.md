@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: C#, Java, Unity3D, morse code
 - 💞️ I’m looking to collaborate on: anything a senior dev isn't going to tell me is beyond their capability so I can be relatable at job interviews.
 - 📫 How to reach me: connect with me on LinkedIn at https://www.linkedin.com/in/taylorwilkersonoliver/
-- 💲  Support me here: <a href="https://www.patreon.com/taylor_irl_">https://www.patreon.com/taylor_irl_</a>
+- 💲  Support me here: <a href="https://www.patreon.com/taylor_irl_">patreon.com</a>
 
 <!---
 taylorwilkersonoliver/taylorwilkersonoliver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
